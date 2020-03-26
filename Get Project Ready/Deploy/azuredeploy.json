@@ -6,7 +6,7 @@
         "ADPAdminUserName":"adpadmin",
         "ADPAdminPassword":"P@ssw0rd123!",
 
-        "DesktopVMSize":"Standard_A4_v2",
+        "DesktopVMSize":"Standard_A2_v2",
         "SynapseSQLDWSize":"DW200c",
 
         "UniqueSuffix":"[uniqueString(resourceGroup().id)]",
